@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer & C# Enthusiast from Russia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3A7BD5&center=true&vCenter=true&width=435&lines=Frontend+Developer;C%23+Learner;React+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=800&color=FF6B6B&center=true&vCenter=true&width=550&height=60&lines=Frontend+Developer;C%23+Learner;Skill+Issue+Master;React+Lover;Debugging+Expert;Pizza+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
